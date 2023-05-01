@@ -1,4 +1,5 @@
-# domDrill
+####dom Drill
+
 
 Let's sum up everything we know about the DOM in a big recap exercise!
 
@@ -20,3 +21,15 @@ Add a special condition to the previous function if the clicked item is Fast and
 Create a new <div> before the list, using createElement and insertBefore
 Using createElement, create a <select> tag into the previously created <div>, with two <option>s in it: "important franchises" and "normal franchises"
 Add an eventListener to the <select>, on change, if the option "important franchise" is chosen, only display items of the list that have the class .important. (hint: you can toggle visibility using element.style.visibility = 'hidden')
+
+
+## Authors
+
+https://becode.org/all-trainings/
+
+Willy Seghers
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+Javascript Dom
